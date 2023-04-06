@@ -36,7 +36,7 @@ module.exports = {
         'backdrop': {
             'dark': '#12121233', 
             'darker': '#12121233', 
-            'darkest': '#a52626', 
+            'darkest': '#1212124d', 
         },
         'base-colors': {
         },
