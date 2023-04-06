@@ -1,0 +1,819 @@
+@tailwind utilities;
+
+@layer utilities {
+   
+  .typography-vpxs-hero {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 108px;
+    line-height: 120px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpxs-heading-xxlarge {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpxs-heading-xlarge {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpxs-heading-large {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpxs-heading-medium {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpxs-heading-small {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpxs-heading-xsmall {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpxs-intro {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-hero {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 180px;
+    line-height: 200px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-heading-xxlarge {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 108px;
+    line-height: 120px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-heading-xlarge {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-heading-large {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-heading-medium {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-heading-small {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-heading-xsmall {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vpl-intro {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-large {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-large-bold {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-medium {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.5px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-medium-bold {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.5px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-small {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-small-bold {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-xsmall {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-static-copy-xsmall-bold {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-12-16 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-12-18 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-15-20 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-15-22 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-16-22 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.5px;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-16-24 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.5px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-18-24 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-18-28 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-21-28 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-21-32 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-24-32 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-24-36 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-27-36 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-30-40 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-36-48 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-36-56 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-42-56 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-48-64 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-54-64 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-72-72 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-72-80 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-72-96 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 96px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-96-112 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 112px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-96-128 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 128px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-108-120 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 108px;
+    line-height: 120px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-144-128 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 144px;
+    line-height: 128px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-144-144 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 144px;
+    line-height: 144px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-144-160 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 144px;
+    line-height: 160px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-180-160 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 180px;
+    line-height: 160px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-regular-180-200 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 180px;
+    line-height: 200px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-12-16 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-12-18 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-15-20 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-15-22 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-16-22 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.5px;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-16-24 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.5px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-18-24 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-18-28 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-21-28 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-21-32 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-24-32 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-24-36 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-27-36 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-30-40 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-36-48 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-96-112 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 112px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-96-128 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 128px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-180-160 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 180px;
+    line-height: 160px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-base-typo-fielmann-sans-medium-180-200 {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 180px;
+    line-height: 200px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-vps-m-hero {
+    font-family: "Fielmann Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 144px;
+    line-height: 160px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+
+}
